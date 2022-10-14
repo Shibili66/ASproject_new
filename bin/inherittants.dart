@@ -11,3 +11,10 @@ void main(){
 
   print('sum = ${ obj1.a + obj1.b}');
 }//
+class car(){
+void details(string color,int malage,int model,int seeting);
+print('color  :$color');
+print('malage  :$malage');
+print('manifturing year  :$model');
+print('seeting cap  :$seeting')
+}
